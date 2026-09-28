@@ -213,7 +213,7 @@ https://github.com/sunitha-lab/Training-Free-Statistical-Detection-of-MQTT-DoS-D
 
 For the publication version, archive a fixed software release in a DOI-minting repository and add the DOI here:
 
-**Archived release:** `[Zenodo DOI to be added]`
+**Archived release:** `10.5281/zenodo.23021498`
 
 ## Citation
 
