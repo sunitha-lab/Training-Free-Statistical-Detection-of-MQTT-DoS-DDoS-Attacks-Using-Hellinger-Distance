@@ -1,0 +1,13 @@
+# Core numerical and data-processing libraries
+numpy
+pandas
+scipy
+
+# Machine-learning evaluation metrics
+scikit-learn
+
+# Plotting and visualization
+matplotlib
+
+# Dataset access used by the cross-dataset validation notebook
+kagglehub
